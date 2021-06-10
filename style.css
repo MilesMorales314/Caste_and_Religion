@@ -12,7 +12,7 @@ figure {
  text-align: center;
 }
 
-img {
+img !important {
  width: 35%;
  min-width: 200px;
 }
