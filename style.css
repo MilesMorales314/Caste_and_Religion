@@ -10,5 +10,7 @@ p {
 
 figure {
  text-align: center;
+ width: 35%;
+ min-width: 200px;
 }
 
