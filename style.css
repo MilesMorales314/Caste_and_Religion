@@ -10,7 +10,9 @@ p {
 
 figure {
  text-align: center;
+}
+
+img {
  width: 35%;
  min-width: 200px;
 }
-
